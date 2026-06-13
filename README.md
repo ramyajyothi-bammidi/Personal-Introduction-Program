@@ -102,39 +102,22 @@ Step 6: Display personalized message.
 
 Input:
 
-Name: Alex
+Name: Ramya
 
 Age: 21
 
-Hobby: Coding
+Hobby: dancing and singing
 
-City: Hyderabad
+City: visakhapatnam
 
 Output:
 
-Welcome Alex!
+Welcome Ramya!
 You are 21 years old.
-You love Coding.
-You are from Hyderabad.
+You love dancing and singing.
+You are from visakhapatnam.
 
-### Test Case 2
 
-Input:
-
-Name: Sarah
-
-Age: 20
-
-Hobby: Reading
-
-City: Chennai
-
-Output:
-
-Welcome Sarah!
-You are 20 years old.
-You love Reading.
-You are from Chennai.
 
 ---
 
@@ -151,7 +134,6 @@ Through this project I learned:
 ---
 
 ## Screenshot
-
+https://github.com/ramyajyothi-bammidi/Personal-Introduction-Program/blob/b0427be92855f03a49c9913e5e218285dbac6a35/screenshot.png
 ## Author
-
-Your Name
+Bammidi Ramya Jyothi
