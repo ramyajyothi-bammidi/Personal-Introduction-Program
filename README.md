@@ -134,6 +134,7 @@ Through this project I learned:
 ---
 
 ## Screenshot
-https://github.com/ramyajyothi-bammidi/Personal-Introduction-Program/blob/b0427be92855f03a49c9913e5e218285dbac6a35/screenshot.png
+
+![Program Output](screenshot.png)
 ## Author
 Bammidi Ramya Jyothi
