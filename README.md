@@ -30,7 +30,7 @@ The program demonstrates:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Personal-Introduction-Program.git
+git clone https://github.com/ramyajyothi-bammidi/Personal-Introduction-Program.git
 ```
 
 2. Navigate to project folder
