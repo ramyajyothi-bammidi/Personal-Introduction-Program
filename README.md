@@ -1,4 +1,4 @@
-Here's a polished and complete **README.md** that fully aligns with the project requirements and includes the requested **Technical Details** section.
+
 
 # Personal Introduction Program
 
