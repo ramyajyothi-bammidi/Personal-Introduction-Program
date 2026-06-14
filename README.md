@@ -199,6 +199,8 @@ Welcome Ramya!
 You are 21 years old.
 You love Dancing and Singing.
 You are from Visakhapatnam.
+It's great to meet you.
+Have a wonderful day.
 ```
 
 **Result:** Passed ✅
@@ -221,6 +223,8 @@ Welcome Alex!
 You are 20 years old.
 You love Coding.
 You are from Hyderabad.
+It's great to meet you.
+Have a wonderful day.
 ```
 
 **Result:** Passed ✅
